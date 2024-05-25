@@ -15,7 +15,8 @@ Meu nome é Valcir e tenho 22 anos. Sou fascinado por programação, tecnologia 
 
 ## Conecte-se comigo
 - [Instagram](https://www.instagram.com/valcirxaves)
-- [X](https://x.com/valcirxaves)
+- [YouTube](https://www.youtube.com/@valcirxaves)
+- [X (Twitter)](https://x.com/valcirxaves)
 - [LinkedIn](https://www.linkedin.com/in/valcirxaves)
 
 Fique à vontade para explorar meus repositórios e colaborar em projetos. Vamos construir algo incrível juntos! 🚀
