@@ -1,16 +1,16 @@
 # 👋 Oi, me chamo Valcir Xaves
 
-Gosto de explorar tudo que envolve **Tecnologia**. Estou sempre aprendendo algo novo, transformando ideias em realidade e tentando entender como as coisas funcionam.
+Gosto de explorar tudo que envolve **Tecnologia**. Estou sempre aprendendo algo novo, transformando ideias em projetos reais enquanto busco entender como as coisas funcionam.
 
-Gosto de misturar lógica com criatividade — seja programando, desenhando interfaces ou só testando ideias por conta própria.
+Misturo lógica e criatividade — seja programando, desenhando interfaces ou explorando ideias por conta própria.
 
 ## 🎯 Trabalhando com
 
-- Agentes de IA e automação
-- Desenvolvimento de micro soluções tecnológicas
-- Projetos empreendedores e ideias próprias
+  - Agentes de IA e automação
+  - Projetos próprios com foco em empreendedorismo
+  - Pequenos projetos para testar ideias e evoluir tecnicamente
 
-## ✨ Interesses & Atuação
+## ✨ Interesses
 
 Design • Coding • IA • Automação
 
